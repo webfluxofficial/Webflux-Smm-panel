@@ -1,6 +1,6 @@
 # 📈 Webflux Official - SMM Panel
 
-![Webflux Official Logo](https://webfluxofficial.site/themes/basic/images/logo-dark.png/200x80.png?text=Webflux+Logo)
+![Webflux Official Logo](https://webfluxofficial.site/themes/basic/images/logo-dark.png/200x80)
 
 ## Overview
 This is a **ready-to-use SMM Panel** built by Webflux Official.  
