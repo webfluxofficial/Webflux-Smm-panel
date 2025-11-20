@@ -1,6 +1,5 @@
 # 📈 Webflux Official - SMM Panel
 
-https://webfluxofficial.site/themes/basic/images/logo-dark.png/
 
 ## Overview
 This is a **ready-to-use SMM Panel** built by Webflux Official.  
